@@ -1,0 +1,13 @@
+{
+    "name": "ThemeChooser",
+    "alias": "themechooser",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ThemeChooser\\Providers\\ThemeChooserServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
